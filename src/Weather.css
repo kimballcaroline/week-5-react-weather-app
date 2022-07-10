@@ -1,0 +1,74 @@
+.Weather {
+  margin: 30px 10px;
+}
+
+.Weather form {
+  margin-bottom: 20px;
+}
+
+.Weather .location-details {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  text-align: right;
+}
+
+.Weather h1 {
+  color: black;
+  font-size: 22px;
+  line-height: 26px;
+  margin: 0;
+}
+
+.Weather .weather-details {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+
+.Weather .temperature {
+  display: inline-block;
+  padding-left: 10px;
+  display: inline;
+}
+
+.Weather .degrees {
+  color: black;
+  font-size: 48px;
+  line-height: 60px;
+  vertical-align: top;
+  letter-spacing: normal;
+}
+
+.Weather .units {
+  font-size: 16px;
+  line-height: 24px;
+  vertical-align: top;
+  margin-top: 6px;
+  padding-left: 6px;
+  display: inline-block;
+}
+
+.Weather ul {
+  font-size: 16px;
+  font-weight: normal;
+  list-style: none;
+  line-height: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.Weather .conditions {
+  font-size: 12px;
+  line-height: 16px;
+  padding: 6px 0 0 9px;
+  display: inline-block;
+}
+
+.Weather .icon {
+  display: inline-block;
+  height: 60px;
+  margin-top: unset;
+  vertical-align: top;
+  width: 60px;
+}
