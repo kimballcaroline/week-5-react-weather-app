@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultZipCode="02118" />
       </div>
       <footer>
         This project was coded by Caroline Kimball and is{" "}
