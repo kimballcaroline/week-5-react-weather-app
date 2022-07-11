@@ -75,6 +75,10 @@
   width: 60px;
 }
 
+.Weather .bold {
+  color: black;
+}
+
 .weatherInfo {
   padding: 15px 0 15px 0;
 }
